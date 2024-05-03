@@ -11,7 +11,7 @@ const users = [
 	{
 		id: 1,
 		profile_picture: ppGirl3,
-		name: "Love of my life ❤️💜",
+		name: "Love of my life ❤️",
 		phone_number: "+2348123456789",
 		whatsapp_name: "Beyonce",
 		unread: 3,
